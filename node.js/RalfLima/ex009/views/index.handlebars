@@ -1,0 +1,17 @@
+<h1>Inicio</h1>
+
+{{#if gostandoDeNode}}
+    que legal!
+
+{{else}}
+    que pena!
+{{/if}}
+
+<table>
+    {{#each dados}}
+        <tr>
+            <td>{{nome}}</td>
+            <td>{{idade}}</td>
+        </tr>
+    {{/each}}
+</table>
