@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(27, 15, 15);
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    height: 80px;
+    width: 450px;
+    background-color: rgba(148, 56, 128, 0.616);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    padding: 14px;
+}
+
+h1{
+    color: white;
+    font-size: 26px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-right: 10px;
+    text-align: center;
+}
+
+img{
+    max-height: 4em;
+    padding: 14px;
+}

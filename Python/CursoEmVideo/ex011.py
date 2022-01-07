@@ -10,4 +10,3 @@ area = larg * alt
 litros = math.ceil(area/2)
 
 print('Área da parede: {}m² | Quantidade mínima de tinta: {}L'.format(area, litros))
-
