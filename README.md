@@ -19,13 +19,18 @@ The aim of the project is to present my evolution and performance in studies on 
 
 <br>
 
-> ## My Projects
-> > * [READFLIX](https://github.com/araujobtc/readflix)
-> > * [Rebuild Instagram](https://github.com/araujobtc/rebuild-instagram)
-> > * [School WebSite](https://github.com/araujobtc/school-website)
-> > * [Snake Game](https://github.com/araujobtc/snake-game)
+> ## Projects
+> * [Portfolio](https://araujobtc.github.io)
+> * [Pondoc](https://github.com/araujobtc/pondoc)
+> * [Readflix](https://github.com/araujobtc/readflix)
+> * [Rebuild Instagram](https://github.com/araujobtc/rebuild-instagram)
+> * [Sakura](https://github.com/araujobtc/sakura)
+> * [Snake Game](https://github.com/araujobtc/snake-game)
 <br>
 
-> ## Courses
-> > ### [Digital Innovation One](www.dio.me)
-> > ### [Curso em Video](https://www.cursoemvideo.com)
+> ## Topics
+> * [HTML5 & CSS3](https://github.com/araujobtc/my-advance/tree/main/HTML5%20e%20CSS3/)
+> * [JavaScript](https://github.com/araujobtc/my-advance/tree/main/JavaScript)
+> * [PHP](https://github.com/araujobtc/my-advance/tree/main/PHP)
+> * [Python](https://github.com/araujobtc/my-advance/tree/main/Python)
+> * [Node.JS](https://github.com/araujobtc/my-advance/tree/main/node.js)
