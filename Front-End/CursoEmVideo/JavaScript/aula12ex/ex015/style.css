@@ -1,0 +1,72 @@
+body{
+    background-color: #61a77c;
+    font: normal 15pt Arial;
+}
+
+/* header */
+h1{
+    color: #fff;
+    text-align: center;
+}
+
+/* body */
+section{
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 35px;
+    width: 400px;
+    margin: auto;
+    box-shadow: 5px 5px 10px #00000030;
+}
+
+#nasc{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#txtano{
+    width: 130px;
+    height: 10px;
+    padding: 10px;
+    border: 1px solid #999;
+    border-radius: 10px;
+}
+
+#sexo{
+    display: flex;
+    justify-content: space-between;
+}
+
+#ver{
+    padding: 5px;
+    margin-bottom: 20px;
+    background-color: #ddd;
+    border: 1px solid #999;
+    border-radius: 10px;
+
+}
+
+#ver:active{
+    background: #73aa71;
+    color: #fff;
+    border: 1px solid #666;
+}
+
+#res{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#foto{
+    border: #fff 2px;
+    border-radius: 50%;
+}
+
+/* footer */
+#creator{
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+}
